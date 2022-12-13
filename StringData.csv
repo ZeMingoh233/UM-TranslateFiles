@@ -226,8 +226,8 @@ MayorShort,周りより多くの票を入れよう。,Gets more votes than every
 MayorFull,"メイヤーは周りよりも多くの票を入れることができる。\nまた、回数制限を無視して会議を開くことができる。","Mayer gets more votes than everyone else.\nIn addition, the conference can be held ignoring the number of times limit.",,
 ,,,,
 OPIntro,とにかく生き残れ,Do whatever it takes to survive.,,
-SGIntro,みんなの投票先を覗いちゃおう,Pay close attention to the crew's votes.,,
-WTIntro,サングラスを手に入れてしまった...,You got the sunglasses...,,
+WTIntro,みんなの投票先を覗いちゃおう,Pay close attention to the crew's votes.,,
+SGIntro,サングラスを手に入れてしまった...,You got the sunglasses...,,
 ,,,,
 # Custom Options
 ChangePage,< >でページを変更,"Press < > for Change Pages,",按 < > 以便查看其他内容,
